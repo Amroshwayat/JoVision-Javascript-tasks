@@ -12,7 +12,7 @@ function sum0To100Array(){
         sum+=array[i];
      console.log(array[i]);}
     }
-     console.log(array.slice(20,24));
+   
   console.log(sum);
 
 }
